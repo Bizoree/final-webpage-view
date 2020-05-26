@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9bc9630-144d-4c29-bc44-480d633851e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGr8CBmlXH4E4A1h0tJWGgdqr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9bc9630-144d-4c29-bc44-480d633851e6" name="Default Changelist" comment="" />
+      <created>1590165609074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590165609074</updated>
+      <workItem from="1590165610893" duration="3394000" />
+      <workItem from="1590215943876" duration="27736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="30" width="800" height="675" key="#File_Watchers" timestamp="1590226999510">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="215" y="30" width="800" height="675" key="#File_Watchers/0.27.1366.741@0.27.1366.741" timestamp="1590226999510" />
+    <state x="353" y="117" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590245926170">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="353" y="117" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590245926170" />
+    <state x="168" y="144" width="895" height="447" key="EditFileWatcherDialog" timestamp="1590226802283">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="168" y="144" width="895" height="447" key="EditFileWatcherDialog/0.27.1366.741@0.27.1366.741" timestamp="1590226802283" />
+    <state x="281" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1590215948498">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="281" y="196" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1590215948498" />
+  </component>
+</project>
